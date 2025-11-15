@@ -131,7 +131,7 @@ export function ServicesSection() {
 
                                 {/* Price & CTA */}
                                 <div className="flex items-center justify-between pt-6 border-t border-gray-100">
-                                    <span className="text-2xl font-bold text-[#055b99]">{service.price}</span>
+                                    {/* <span className="text-2xl font-bold text-[#055b99]">{service.price}</span> */}
                                     <button className="flex items-center gap-2 text-[#055b99] font-semibold hover:gap-3 transition-all">
                                         Book Now
                                         <ArrowRight className="w-4 h-4" />

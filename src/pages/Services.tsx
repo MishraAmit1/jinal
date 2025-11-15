@@ -339,10 +339,10 @@ export default function Services() {
 
                     {/* Price & CTA */}
                     <div className="flex items-center justify-between pt-6 border-t border-gray-100">
-                      <div>
+                      {/* <div>
                         <div className="text-sm text-gray-500 mb-1">Price</div>
                         <span className="text-2xl font-bold text-[#055b99]">{service.price}</span>
-                      </div>
+                      </div> */}
                       <Link to="/book-service">
                         <motion.button
                           whileHover={{ scale: 1.05 }}

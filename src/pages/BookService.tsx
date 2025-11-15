@@ -116,14 +116,11 @@ _Sent from Jinal Auto Garage website_
   };
 
   const vehicleMakes = [
-    "Maruti Suzuki",
+    "Eicher",
     "Tata Motors",
-    "Hyundai",
-    "Honda",
     "Mahindra",
     "Toyota",
-    "Ford",
-    "Volkswagen",
+    "LCV",
     "Other",
   ];
 
@@ -176,8 +173,8 @@ _Sent from Jinal Auto Garage website_
       {/* SEO Component */}
       <SEO
         title="Book a Service - Online Car Service Appointment Booking | Jinal Auto Garage"
-        description="Book your car service online in Valsad. Easy appointment scheduling, same-day service available. Choose your preferred date & time. Quick confirmation within 1 hour. Free estimates & transparent pricing."
-        keywords="book car service valsad, online car service booking, car appointment valsad, schedule auto repair, car service booking online, vehicle maintenance appointment valsad, auto service booking"
+        description="Book your car service online in Vapi. Easy appointment scheduling, same-day service available. Choose your preferred date & time. Quick confirmation within 1 hour. Free estimates & transparent pricing."
+        keywords="book car service Vapi, online car service booking, car appointment Vapi, schedule auto repair, car service booking online, vehicle maintenance appointment Vapi, auto service booking"
         canonical="https://jinalgarage.com/book-service"
         ogType="website"
       />
@@ -287,7 +284,7 @@ _Sent from Jinal Auto Garage website_
                       </p>
                       <div className="mt-4 pt-4 border-t border-white/20">
                         <p className="text-sm text-green-50">
-                          📞 Need immediate assistance? Call us at <span className="font-bold">+91 98765 43210</span>
+                          📞 Need immediate assistance? Call us at <span className="font-bold">+91 99250 41198</span>
                         </p>
                       </div>
                     </div>
@@ -586,13 +583,13 @@ _Sent from Jinal Auto Garage website_
                 <div className="bg-gradient-to-br from-[#055b99] to-[#0670b8] text-white rounded-2xl p-8 shadow-xl">
                   <h3 className="font-bold text-xl mb-6">Need Help?</h3>
                   <div className="space-y-4">
-                    <a href="tel:+919876543210" className="flex items-center gap-3 hover:bg-white/10 p-3 rounded-lg transition-colors">
+                    <a href="tel:+919925041198" className="flex items-center gap-3 hover:bg-white/10 p-3 rounded-lg transition-colors">
                       <div className="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
                         <Phone className="w-5 h-5" />
                       </div>
                       <div>
                         <p className="text-sm opacity-90">Call Us</p>
-                        <p className="font-bold">+91 98765 43210</p>
+                        <p className="font-bold">+91 99250 41198</p>
                       </div>
                     </a>
 
@@ -602,7 +599,9 @@ _Sent from Jinal Auto Garage website_
                       </div>
                       <div>
                         <p className="text-sm opacity-90">Working Hours</p>
-                        <p className="font-bold">Mon-Sat: 9AM-7PM</p>
+                        <p className="font-bold"> <span className="text-white/80">
+                          Mon-Sat: 9 AM - 8 PM<br />Sun: 9 AM - 12 PM
+                        </span></p>
                       </div>
                     </div>
 
@@ -612,7 +611,7 @@ _Sent from Jinal Auto Garage website_
                       </div>
                       <div>
                         <p className="text-sm opacity-90">Location</p>
-                        <p className="font-bold">Valsad, Gujarat</p>
+                        <p className="font-bold">Vapi, Gujarat</p>
                       </div>
                     </div>
                   </div>

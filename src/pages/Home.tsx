@@ -69,7 +69,7 @@ export default function Home() {
       name: "Rajesh Kumar",
       image: maleTestimonial,
       rating: 5,
-      text: "Best auto garage in Valsad! I've been coming here for years and they never disappoint. Highly recommended!",
+      text: "Best auto garage in Vapi! I've been coming here for years and they never disappoint. Highly recommended!",
     },
     {
       name: "Amit Shah",
@@ -83,9 +83,9 @@ export default function Home() {
     <>
       {/* SEO Component - Add this */}
       <SEO
-        title="Jinal Auto Garage - Best Car Service & Repair Center in Valsad"
-        description="Expert auto repairs and maintenance services in Valsad, Gujarat. Certified mechanics, honest service, genuine parts, and affordable prices. 10+ years of trusted service. Book today!"
-        keywords="car service valsad, auto repair valsad, car garage valsad, vehicle maintenance valsad, car mechanic valsad, jinal auto garage, engine diagnostics valsad, brake service valsad, ac repair valsad, oil change valsad"
+        title="Jinal Auto Garage - Best Car Service & Repair Center in Vapi"
+        description="Expert auto repairs and maintenance services in Vapi, Gujarat. Certified mechanics, honest service, genuine parts, and affordable prices. 25+ years of trusted service. Book today!"
+        keywords="car service Vapi, auto repair Vapi, car garage Vapi, vehicle maintenance Vapi, car mechanic Vapi, jinal auto garage, engine diagnostics Vapi, brake service Vapi, ac repair Vapi, oil change Vapi"
         canonical="https://jinalgarage.com/"
         ogType="website"
       />
@@ -156,7 +156,7 @@ export default function Home() {
                   <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#055b99]"></span>
                 </span>
                 <span className="text-[#055b99] font-bold text-sm tracking-wide">
-                  Valsad's Most Trusted Auto Garage
+                  Vapi's Most Trusted Auto Garage
                 </span>
               </motion.div>
 

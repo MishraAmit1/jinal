@@ -34,7 +34,7 @@ export function Footer() {
               data-testid="logo-footer"
             />
             <p className="text-white/80 text-sm">
-              Your trusted partner for reliable and affordable auto care in Valsad, Gujarat.
+              Your trusted partner for reliable and affordable auto care in Vapi, Gujarat.
             </p>
           </div>
 
@@ -75,33 +75,33 @@ export function Footer() {
               <li className="flex items-start gap-2 text-sm">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5 text-white" />
                 <span className="text-white/80">
-                  Mu.po, Aahir Faliya, in front of Eicher, Motiwada, Valsad, Gujarat
+                  N.H.NO.8 , Behind the Shree ganesh Auto part , Balitha , Vapi, 396191 <br /> Dis:- Valsad(Gujrat)
                 </span>
               </li>
               <li className="flex items-center gap-2 text-sm">
                 <Phone className="w-4 h-4 flex-shrink-0 text-white" />
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+919925041198"
                   className="text-white/80 hover:text-white transition-colors duration-200"
                   data-testid="link-footer-phone"
                 >
-                  +91 98765 43210
+                  +91 99250 41198
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm">
                 <Mail className="w-4 h-4 flex-shrink-0 text-white" />
                 <a
-                  href="mailto:info@jinalgarage.com"
+                  href="mailto:prajapatiisha789@gmail.com"
                   className="text-white/80 hover:text-white transition-colors duration-200"
                   data-testid="link-footer-email"
                 >
-                  info@jinalgarage.com
+                  prajapatiisha789@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <Clock className="w-4 h-4 flex-shrink-0 mt-0.5 text-white" />
                 <span className="text-white/80">
-                  Mon-Sat: 9 AM - 7 PM<br />Sun: Closed
+                  Mon-Sat: 9 AM - 8 PM<br />Sun: 9 AM - 12 PM
                 </span>
               </li>
             </ul>
@@ -130,7 +130,7 @@ export function Footer() {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919925041198"
               className="text-white/80 hover:text-white transition-all duration-200 hover:scale-110 rounded-full p-2"
               data-testid="link-social-whatsapp"
               aria-label="WhatsApp"

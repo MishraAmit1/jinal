@@ -34,7 +34,7 @@ export default function About() {
       name: "Rahul Desai",
       role: "Senior Technician",
       image: mechanicWorking,
-      experience: "10+ Years",
+      experience: "25+ Years",
       specialization: "Transmission Expert"
     },
     {
@@ -54,14 +54,11 @@ export default function About() {
   ];
 
   const brands = [
-    "Maruti Suzuki",
+    "Eicher",
     "Tata Motors",
-    "Hyundai",
-    "Honda",
     "Mahindra",
     "Toyota",
-    "Ford",
-    "Volkswagen",
+    "LCV",
   ];
 
   const coreValues = [
@@ -88,26 +85,26 @@ export default function About() {
   ];
 
   const stats = [
-    { number: "10+", label: "Years in Business", icon: Clock },
-    { number: "500+", label: "Happy Customers", icon: Users },
+    { number: "25+", label: "Years in Business", icon: Clock },
+    { number: "95%", label: "Happy Customers", icon: Users },
     { number: "4.9", label: "Google Rating", icon: Star },
     { number: "95%", label: "Customer Return Rate", icon: TrendingUp }
   ];
 
   const milestones = [
-    { year: "2013", title: "Founded", description: "Started with a small workshop and big dreams" },
-    { year: "2015", title: "Expansion", description: "Added advanced diagnostic equipment" },
-    { year: "2018", title: "Team Growth", description: "Expanded to 10+ certified technicians" },
-    { year: "2024", title: "Today", description: "Valsad's most trusted auto service center" }
+    { year: "1997", title: "Founded", description: "Started with a small workshop and big dreams" },
+    { year: "2013", title: "Expansion", description: "Added advanced diagnostic equipment" },
+    { year: "2018", title: "Team Growth", description: "Expanded to 25+ certified technicians" },
+    { year: "2024", title: "Today", description: "Vapi's most trusted auto service center" }
   ];
 
   return (
     <>
       {/* SEO Component */}
       <SEO
-        title="About Us - Jinal Auto Garage | 10+ Years of Trusted Auto Service in Valsad"
-        description="Learn about Jinal Auto Garage - Valsad's most trusted auto service center since 2013. Meet our expert team of certified mechanics, discover our mission, vision, and values. 500+ satisfied customers, 4.9 rating."
-        keywords="about jinal auto garage, auto garage valsad history, certified mechanics valsad, auto service team valsad, trusted car garage valsad, professional auto technicians, car repair experts valsad"
+        title="About Us - Jinal Auto Garage | 25+ Years of Trusted Auto Service in Vapi"
+        description="Learn about Jinal Auto Garage - Vapi's most trusted auto service center since 2013. Meet our expert team of certified mechanics, discover our mission, vision, and values. 500+ satisfied customers, 4.9 rating."
+        keywords="about jinal auto garage, auto garage Vapi history, certified mechanics Vapi, auto service team Vapi, trusted car garage Vapi, professional auto technicians, car repair experts Vapi"
         canonical="https://jinalgarage.com/about"
         ogType="website"
       />
@@ -156,7 +153,7 @@ export default function About() {
                 About Jinal Auto Garage
               </h1>
               <p className="text-xl md:text-2xl opacity-90 leading-relaxed">
-                Your trusted automotive service partner in Valsad. Over 10 years of excellence,
+                Your trusted automotive service partner in Vapi. Over 10 years of excellence,
                 500+ satisfied customers, and a commitment to honest, quality service.
               </p>
             </motion.div>
@@ -213,7 +210,7 @@ export default function About() {
                   <p>
                     Founded in 2013, Jinal Auto Garage began with a simple mission: to
                     provide honest, reliable, and affordable auto care to the people of
-                    Valsad and surrounding areas.
+                    Vapi and surrounding areas.
                   </p>
                   <p>
                     What started as a small workshop with just two mechanics has grown
@@ -223,7 +220,7 @@ export default function About() {
                   </p>
                   <p>
                     Today, we're proud to be one of the most trusted names in automotive
-                    service in Valsad, equipped with modern diagnostic tools and a team
+                    service in Vapi, equipped with modern diagnostic tools and a team
                     of certified technicians who treat every car like their own.
                   </p>
                 </div>
@@ -279,7 +276,7 @@ export default function About() {
                       <Heart className="w-6 h-6 text-white" />
                     </div>
                     <div>
-                      <div className="font-bold text-2xl text-[#055b99]">500+</div>
+                      <div className="font-bold text-2xl text-[#055b99]">95%</div>
                       <div className="text-sm text-gray-600">Happy Customers</div>
                     </div>
                   </div>
@@ -327,7 +324,7 @@ export default function About() {
                 </div>
                 <h3 className="text-3xl font-bold mb-4">Our Vision</h3>
                 <p className="text-gray-600 text-lg leading-relaxed">
-                  To be Valsad's most trusted and preferred automotive service center,
+                  To be Vapi's most trusted and preferred automotive service center,
                   known for our expertise, integrity, and commitment to excellence in
                   every service we provide. Setting the standard for quality auto care
                   in the region.
@@ -582,7 +579,7 @@ export default function About() {
 
               <p className="text-xl text-gray-600 mb-10 max-w-2xl mx-auto leading-relaxed">
                 Experience the difference that honest service and expert care makes.
-                Book your service appointment today and see why we're Valsad's most trusted garage!
+                Book your service appointment today and see why we're Vapi's most trusted garage!
               </p>
 
               <div className="flex flex-wrap gap-4 justify-center">
@@ -598,12 +595,12 @@ export default function About() {
                 </Link>
 
                 <motion.a
-                  href="tel:+919876543210"
+                  href="tel:+919925041198"
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}
                   className="bg-white border-2 border-[#055b99] text-[#055b99] px-8 py-4 rounded-full font-bold text-lg shadow-lg hover:shadow-xl transition-all inline-flex items-center gap-3"
                 >
-                  📞 Call: +91 98765 43210
+                  📞 Call: +91 99250 41198
                 </motion.a>
               </div>
 

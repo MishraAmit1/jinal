@@ -38,9 +38,9 @@ const features = [
   },
   {
     icon: Users,
-    title: "500+ Happy Customers",
+    title: "95% Happy Customers",
     description:
-      "Trusted by Valsad's car owners for over 10 years of excellence",
+      "Trusted by Vapi's car owners for over 10 years of excellence",
   },
   {
     icon: ThumbsUp,
@@ -51,8 +51,8 @@ const features = [
 ];
 
 const stats = [
-  { number: "10+", label: "Years Experience" },
-  { number: "500+", label: "Happy Customers" },
+  { number: "25+", label: "Years Experience" },
+  { number: "95%", label: "Happy Customers" },
   { number: "4.9", label: "Google Rating" },
   { number: "95%", label: "Customer Retention" },
 ];
@@ -73,7 +73,7 @@ export function WhyChooseUs() {
               Why Choose Us
             </span>
             <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-6">
-              Valsad's Most Trusted Auto Service Center
+              Vapi's Most Trusted Auto Service Center
             </h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               With over 10 years of experience, we've built our reputation on

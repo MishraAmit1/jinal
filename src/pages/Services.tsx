@@ -156,9 +156,9 @@ export default function Services() {
     <>
       {/* SEO Component */}
       <SEO
-        title="Car Services in Valsad - Auto Repair & Maintenance | Jinal Auto Garage"
-        description="Complete car services in Valsad: Oil Change ₹799, Engine Diagnostics ₹499, Brake Service ₹1,299, AC Repair ₹1,499. Same-day service, 6-month warranty. Expert mechanics, genuine parts, transparent pricing."
-        keywords="car services valsad, auto repair valsad, oil change valsad, engine diagnostics valsad, brake repair valsad, ac servicing valsad, car maintenance valsad, vehicle service valsad, tire service valsad, battery replacement valsad, transmission repair valsad, denting painting valsad"
+        title="Car Services in Vapi - Auto Repair & Maintenance | Jinal Auto Garage"
+        description="Complete car services in Vapi: Oil Change ₹799, Engine Diagnostics ₹499, Brake Service ₹1,299, AC Repair ₹1,499. Same-day service, 6-month warranty. Expert mechanics, genuine parts, transparent pricing."
+        keywords="car services Vapi, auto repair Vapi, oil change Vapi, engine diagnostics Vapi, brake repair Vapi, ac servicing Vapi, car maintenance Vapi, vehicle service Vapi, tire service Vapi, battery replacement Vapi, transmission repair Vapi, denting painting Vapi"
         canonical="https://jinalgarage.com/services"
         ogType="website"
       />
@@ -384,7 +384,7 @@ export default function Services() {
 
               <div className="flex flex-wrap gap-4 justify-center">
                 <motion.a
-                  href="tel:+919876543210"
+                  href="tel:+919925041198"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="inline-flex items-center gap-3 bg-[#055b99] text-white px-8 py-4 rounded-full font-bold shadow-lg hover:shadow-xl transition-all"

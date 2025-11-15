@@ -65,7 +65,7 @@ export default function FAQs() {
     {
       icon: Phone,
       question: "How do I book an appointment?",
-      answer: "You can book an appointment through our website's booking form, call us directly at +91 98765 43210, or send us a message on WhatsApp. We recommend booking in advance to secure your preferred time slot.",
+      answer: "You can book an appointment through our website's booking form, call us directly at +91 99250 41198, or send us a message on WhatsApp. We recommend booking in advance to secure your preferred time slot.",
       category: "Booking"
     },
     {
@@ -115,9 +115,9 @@ export default function FAQs() {
     <>
       {/* SEO Component */}
       <SEO
-        title="FAQs - Frequently Asked Questions | Jinal Auto Garage Valsad"
-        description="Find answers to common questions about car services at Jinal Auto Garage. Learn about our hours (9AM-7PM), pricing, warranties, payment methods, pickup/drop services, and booking process in Valsad."
-        keywords="car service faq valsad, auto repair questions valsad, car garage hours valsad, service warranty valsad, car repair pricing, payment methods auto service, pickup drop service valsad, booking appointment valsad, genuine parts guarantee"
+        title="FAQs - Frequently Asked Questions | Jinal Auto Garage Vapi"
+        description="Find answers to common questions about car services at Jinal Auto Garage. Learn about our hours (9AM-7PM), pricing, warranties, payment methods, pickup/drop services, and booking process in Vapi."
+        keywords="car service faq Vapi, auto repair questions Vapi, car garage hours Vapi, service warranty Vapi, car repair pricing, payment methods auto service, pickup drop service Vapi, booking appointment Vapi, genuine parts guarantee"
         canonical="https://jinalgarage.com/faqs"
         ogType="website"
       />
@@ -228,7 +228,7 @@ export default function FAQs() {
                 viewport={{ once: true }}
                 transition={{ delay: 0.3 }}
               >
-                <div className="text-4xl font-bold text-[#055b99] mb-2">500+</div>
+                <div className="text-4xl font-bold text-[#055b99] mb-2">95%</div>
                 <p className="text-gray-600">Happy Customers</p>
               </motion.div>
             </div>
@@ -368,7 +368,7 @@ export default function FAQs() {
 
                 {/* Call Us */}
                 <motion.a
-                  href="tel:+919876543210"
+                  href="tel:+919925041198"
                   whileHover={{ y: -5, scale: 1.02 }}
                   className="bg-white rounded-xl p-6 text-center shadow-lg hover:shadow-xl transition-all border-2 border-transparent hover:border-[#055b99]/30"
                   data-testid="button-call-us"
@@ -377,13 +377,13 @@ export default function FAQs() {
                     <Phone className="w-7 h-7 text-[#055b99]" />
                   </div>
                   <h3 className="font-bold text-lg mb-2">Call Us</h3>
-                  <p className="text-gray-600 text-sm mb-3">Mon-Sat, 9AM-7PM</p>
-                  <p className="text-[#055b99] font-bold">+91 98765 43210</p>
+                  <p className="text-gray-600 text-sm mb-3">Mon-Sat, 9AM-7PM Sunday: 9AM-12PM</p>
+                  <p className="text-[#055b99] font-bold">+91 99250 41198</p>
                 </motion.a>
 
                 {/* WhatsApp */}
                 <motion.a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/919925041198"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ y: -5, scale: 1.02 }}
@@ -399,7 +399,7 @@ export default function FAQs() {
 
                 {/* Email */}
                 <motion.a
-                  href="mailto:info@jinalgarage.com"
+                  href="mailto:prajapatiisha789@gmail.com"
                   whileHover={{ y: -5, scale: 1.02 }}
                   className="bg-white rounded-xl p-6 text-center shadow-lg hover:shadow-xl transition-all border-2 border-transparent hover:border-[#055b99]/30"
                   data-testid="button-contact-us"
@@ -409,7 +409,7 @@ export default function FAQs() {
                   </div>
                   <h3 className="font-bold text-lg mb-2">Email Us</h3>
                   <p className="text-gray-600 text-sm mb-3">24h Response Time</p>
-                  <p className="text-[#055b99] font-bold text-sm">info@jinalgarage.com</p>
+                  <p className="text-[#055b99] font-bold text-sm">prajapatiisha789@gmail.com</p>
                 </motion.a>
 
               </div>

@@ -29,7 +29,7 @@ export function CTASection() {
                                 className="bg-white text-[#055b99] px-8 py-4 rounded-full font-bold shadow-xl hover:shadow-2xl transition-all inline-flex items-center gap-3"
                             >
                                 <Phone className="w-5 h-5" />
-                                Call: +91 98765 43210
+                                Call: +91 99250 41198
                             </motion.button>
 
                             <motion.button

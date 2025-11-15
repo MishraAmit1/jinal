@@ -10,9 +10,9 @@ interface SEOProps {
 }
 
 export function SEO({
-    title = "Jinal Auto Garage - Best Car Service Center in Valsad",
-    description = "Expert auto repairs and maintenance services in Valsad, Gujarat. Certified mechanics, honest service, and affordable prices. Book your service today!",
-    keywords = "car service valsad, auto repair valsad, car garage valsad, vehicle maintenance valsad",
+    title = "Jinal Auto Garage - Best Car Service Center in Vapi",
+    description = "Expert auto repairs and maintenance services in Vapi, Gujarat. Certified mechanics, honest service, and affordable prices. Book your service today!",
+    keywords = "car service Vapi, auto repair Vapi, car garage Vapi, vehicle maintenance Vapi",
     canonical = "https://jinalgarage.com/",
     ogImage = "https://jinalgarage.com/og-image.jpg",
     ogType = "website"

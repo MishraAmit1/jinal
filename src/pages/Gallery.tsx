@@ -47,9 +47,9 @@ export default function Gallery() {
     <>
       {/* SEO Component */}
       <SEO
-        title="Gallery - Photos of Our Workshop & Services | Jinal Auto Garage Valsad"
-        description="View photos of our modern workshop, skilled mechanics, quality equipment, and satisfied customers at Jinal Auto Garage Valsad. See our work showcase including before/after repairs, service work, and facilities."
-        keywords="auto garage photos valsad, car workshop images, mechanic at work valsad, garage facility valsad, car repair workshop photos, auto service center gallery, before after car repair, diagnostic equipment photos, customer testimonials valsad"
+        title="Gallery - Photos of Our Workshop & Services | Jinal Auto Garage Vapi"
+        description="View photos of our modern workshop, skilled mechanics, quality equipment, and satisfied customers at Jinal Auto Garage Vapi. See our work showcase including before/after repairs, service work, and facilities."
+        keywords="auto garage photos Vapi, car workshop images, mechanic at work Vapi, garage facility Vapi, car repair workshop photos, auto service center gallery, before after car repair, diagnostic equipment photos, customer testimonials Vapi"
         canonical="https://jinalgarage.com/gallery"
         ogType="website"
       />
@@ -133,7 +133,7 @@ export default function Gallery() {
                 viewport={{ once: true }}
                 transition={{ delay: 0.2 }}
               >
-                <div className="text-4xl font-bold text-[#055b99] mb-2">500+</div>
+                <div className="text-4xl font-bold text-[#055b99] mb-2">95%</div>
                 <p className="text-gray-600">Happy Clients</p>
               </motion.div>
               <motion.div
@@ -142,7 +142,7 @@ export default function Gallery() {
                 viewport={{ once: true }}
                 transition={{ delay: 0.3 }}
               >
-                <div className="text-4xl font-bold text-[#055b99] mb-2">10+</div>
+                <div className="text-4xl font-bold text-[#055b99] mb-2">25+</div>
                 <p className="text-gray-600">Years Experience</p>
               </motion.div>
             </div>

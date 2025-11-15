@@ -7,7 +7,7 @@ const testimonials = [
         name: "Rajesh Patel",
         car: "Honda City 2020",
         rating: 5,
-        text: "Best garage in Valsad! They fixed my car's AC problem that others couldn't diagnose. Very professional service and transparent pricing.",
+        text: "Best garage in Vapi! They fixed my car's AC problem that others couldn't diagnose. Very professional service and transparent pricing.",
         service: "AC Repair"
     },
     {

@@ -72,7 +72,7 @@ _Sent from Jinal Auto Garage website_
     const encodedMessage = encodeURIComponent(message);
 
     // Replace with your actual WhatsApp business number
-    const whatsappNumber = '919876543210'; // Use your actual number
+    const whatsappNumber = '919925041198'; // Use your actual number
 
     // Check if mobile device
     const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
@@ -108,33 +108,32 @@ _Sent from Jinal Auto Garage website_
     {
       icon: MapPin,
       title: "Address",
-      content: "Mu.po, Aahir Faliya, in front of Eicher, Motiwada, Valsad, Gujarat",
+      content: "N.H.NO.8 , Behind the Shree ganesh Auto part , Balitha , Vapi, 396191 Dis:- Valsad(Gujrat), Vapi, Gujarat",
       link: null,
       color: "bg-[#055b99]"
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+91 98765 43210",
-      link: "tel:+919876543210",
+      content: "+91 99250 41198",
+      link: "tel:+919925041198",
       color: "bg-green-600"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "info@jinalgarage.com",
-      link: "mailto:info@jinalgarage.com",
+      content: "prajapatiisha789@gmail.com",
+      link: "mailto:prajapatiisha789@gmail.com",
       color: "bg-red-600"
     },
     {
       icon: Clock,
       title: "Business Hours",
-      content: "Mon-Sat: 9:00 AM - 7:00 PM\nSunday: Closed",
+      content: "Mon-Sat: 9:00 AM - 7:00 PM\nSunday: 9 AM - 12 PM",
       link: null,
       color: "bg-blue-600"
     }
   ];
-
   const socialMedia = [
     {
       icon: Facebook,
@@ -153,7 +152,7 @@ _Sent from Jinal Auto Garage website_
     {
       icon: SiWhatsapp,
       name: "WhatsApp",
-      link: "https://wa.me/919876543210",
+      link: "https://wa.me/919925041198",
       color: "hover:bg-green-600",
       testId: "link-social-whatsapp"
     }
@@ -163,9 +162,9 @@ _Sent from Jinal Auto Garage website_
     <>
       {/* SEO Component */}
       <SEO
-        title="Contact Us - Get in Touch with Jinal Auto Garage | Valsad, Gujarat"
-        description="Contact Jinal Auto Garage in Valsad for car service inquiries, appointments, and quotes. Call +91 98765 43210, WhatsApp, or visit us at Motiwada, Valsad. Mon-Sat: 9AM-7PM."
-        keywords="contact jinal auto garage, car service valsad contact, auto garage valsad phone, car repair valsad address, jinal garage location, auto service valsad enquiry, car mechanic valsad contact, motiwada garage"
+        title="Contact Us - Get in Touch with Jinal Auto Garage | Vapi, Gujarat"
+        description="Contact Jinal Auto Garage in Vapi for car service inquiries, appointments, and quotes. Call +91 99250 41198, WhatsApp, or visit us at Motiwada, Vapi. Mon-Sat: 9AM-7PM. Sunday: 9 AM - 12 PM"
+        keywords="contact jinal auto garage, car service Vapi contact, auto garage Vapi phone, car repair Vapi address, jinal garage location, auto service Vapi enquiry, car mechanic Vapi contact, motiwada garage"
         canonical="https://jinalgarage.com/contact"
         ogType="website"
       />
@@ -282,10 +281,10 @@ _Sent from Jinal Auto Garage website_
                       </p>
                       <div className="mt-4 pt-4 border-t border-white/20">
                         <p className="text-sm text-green-50">
-                          💡 <span className="font-semibold">Tip:</span> Save our WhatsApp number <span className="font-bold">+91 98765 43210</span> for future reference.
+                          💡 <span className="font-semibold">Tip:</span> Save our WhatsApp number <span className="font-bold">+91 99250 41198</span> for future reference.
                         </p>
                         <p className="text-sm text-green-50 mt-2">
-                          📞 Need immediate assistance? Call us directly at <span className="font-bold">+91 98765 43210</span>
+                          📞 Need immediate assistance? Call us directly at <span className="font-bold">+91 99250 41198</span>
                         </p>
                       </div>
                     </div>
@@ -462,7 +461,7 @@ _Sent from Jinal Auto Garage website_
                   <h3 className="text-2xl font-bold mb-6">Quick Contact</h3>
                   <div className="space-y-4">
                     <motion.a
-                      href="tel:+919876543210"
+                      href="tel:+919925041198"
                       whileHover={{ scale: 1.02 }}
                       whileTap={{ scale: 0.98 }}
                       className="flex items-center gap-4 p-4 bg-green-50 rounded-xl hover:bg-green-100 transition-colors"
@@ -472,12 +471,12 @@ _Sent from Jinal Auto Garage website_
                       </div>
                       <div>
                         <p className="text-sm text-gray-600">Call Us Now</p>
-                        <p className="font-bold text-lg text-green-700">+91 98765 43210</p>
+                        <p className="font-bold text-lg text-green-700">+91 99250 41198</p>
                       </div>
                     </motion.a>
 
                     <motion.a
-                      href="https://wa.me/919876543210"
+                      href="https://wa.me/919925041198"
                       target="_blank"
                       rel="noopener noreferrer"
                       whileHover={{ scale: 1.02 }}
@@ -553,7 +552,7 @@ _Sent from Jinal Auto Garage website_
                 <div>
                   <h4 className="font-bold text-lg mb-1">Visit Our Garage</h4>
                   <p className="text-sm text-gray-600">
-                    Mu.po, Aahir Faliya, in front of Eicher, Motiwada, Valsad, Gujarat
+                    N.H.NO.8 , Behind the Shree ganesh Auto part , Balitha , Vapi, 396191 Dis:- Valsad(Gujrat), Vapi, Gujarat
                   </p>
                   <a
                     href="https://maps.google.com"

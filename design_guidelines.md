@@ -66,7 +66,7 @@ Error Red: #E74C3C (Error states)
 **Why Choose Us**: 4 stat cards in row
 
 - Large number (orange), icon, short label
-- Examples: "500+ Happy Customers", "Certified Mechanics"
+- Examples: "95% Happy Customers", "Certified Mechanics"
 
 **Testimonials**: 3 customer reviews with circular photos
 

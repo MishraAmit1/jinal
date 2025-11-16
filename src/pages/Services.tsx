@@ -419,7 +419,7 @@ export default function Services() {
                 viewport={{ once: true }}
                 className="bg-white rounded-2xl p-8 shadow-lg"
               >
-                <div className="text-5xl font-bold text-[#055b99] mb-2">500+</div>
+                <div className="text-5xl font-bold text-[#055b99] mb-2">95%</div>
                 <p className="text-gray-600 font-semibold">Services Completed</p>
               </motion.div>
 

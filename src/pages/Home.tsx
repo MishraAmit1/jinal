@@ -20,7 +20,7 @@ import { SEO } from "@/components/SEO"; // Add this import
 import { ServiceCard } from "@/components/ServiceCard";
 import { TestimonialCard } from "@/components/TestimonialCard";
 import { TypewriterText } from "@/components/TypewriterText";
-import heroImage from "@assets/generated_images/Hero_automotive_garage_workshop_1fe0179c.png";
+import heroImage from "@assets/generated_images/homebanner.avif";
 import customerImage from "@assets/generated_images/Happy_customer_with_car_0d0ccd85.png";
 import femaleTestimonial from "@assets/generated_images/Female_customer_testimonial_2cf3e0e0.png";
 import maleTestimonial from "@assets/generated_images/Male_customer_testimonial_6679cdb8.png";

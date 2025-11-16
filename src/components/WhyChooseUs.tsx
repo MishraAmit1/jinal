@@ -10,6 +10,7 @@ import {
   Wrench,
 } from "lucide-react";
 import { Link } from "wouter";
+import customerImage from "@assets/generated_images/Happy_customer_with_car_0d0ccd85.png";
 
 const features = [
   {
@@ -40,7 +41,7 @@ const features = [
     icon: Users,
     title: "95% Happy Customers",
     description:
-      "Trusted by Vapi's car owners for over 10 years of excellence",
+      "Trusted by Vapi's car owners for over 25+ years of excellence",
   },
   {
     icon: ThumbsUp,
@@ -76,7 +77,7 @@ export function WhyChooseUs() {
               Vapi's Most Trusted Auto Service Center
             </h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              With over 10 years of experience, we've built our reputation on
+              With over 25+ years of experience, we've built our reputation on
               trust, quality, and customer satisfaction. Your car deserves the
               best care.
             </p>
@@ -128,18 +129,12 @@ export function WhyChooseUs() {
           >
             {/* Main Image Container */}
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              {/* Placeholder for garage image */}
-              <div className="aspect-[4/5] bg-gradient-to-br from-[#055b99]/20 to-[#0670b8]/20 flex items-center justify-center">
-                <div className="text-center p-8">
-                  <Wrench className="w-24 h-24 text-[#055b99] mx-auto mb-4" />
-                  <p className="text-gray-600 text-lg">
-                    Add your garage image here
-                  </p>
-                  <p className="text-sm text-gray-500 mt-2">
-                    Recommended: 600x750px
-                  </p>
-                </div>
-              </div>
+              {/* Image is now here */}
+              <img
+                src={customerImage}
+                alt="Happy customer standing next to their clean and serviced car"
+                className="w-full h-full object-cover aspect-[4/5]"
+              />
 
               {/* Floating Stats Card */}
               <motion.div

@@ -16,40 +16,40 @@ import {
 import { SEO } from "@/components/SEO"; // Add this import
 
 // Import your images
-import garageExterior from "@assets/generated_images/Garage_exterior_building_3c1884ac.png";
-import mechanicImage from "@assets/generated_images/Master_mechanic_portrait_1af7e990.png";
-import mechanicWorking from "@assets/generated_images/Mechanic_working_on_vehicle_8e11e291.png";
+import garageExterior from "@assets/generated_images/about.jpg";
+import mechanicImage from "@assets/generated_images/person.jpg";
+import mechanicWorking from "@assets/generated_images/person.jpg";
 import { Link } from 'wouter';
 
 export default function About() {
   const team = [
     {
-      name: "Jinal Patel",
+      name: "Pravin Prajapati",
       role: "Master Mechanic & Founder",
       image: mechanicImage,
       experience: "15+ Years",
-      specialization: "Engine Diagnostics"
+      specialization: "Complete Mechanical Services"
     },
     {
-      name: "Rahul Desai",
+      name: "Ramesh Prajapti",
       role: "Senior Technician",
       image: mechanicWorking,
       experience: "25+ Years",
-      specialization: "Transmission Expert"
+      specialization: "Mechanical Repair Specialist"
     },
     {
-      name: "Kiran Shah",
-      role: "Diagnostic Specialist",
+      name: "Manan ",
+      role: "Painter",
       image: mechanicImage,
       experience: "8+ Years",
-      specialization: "Electrical Systems"
+      specialization: " Vehicle & Tempo Painting Specialist"
     },
     {
-      name: "Vijay Kumar",
-      role: "Auto Electrician",
+      name: "Pintu ",
+      role: "Mechanic ",
       image: mechanicWorking,
       experience: "12+ Years",
-      specialization: "AC & Electronics"
+      specialization: "Junior Mechanic"
     },
   ];
 
@@ -93,7 +93,7 @@ export default function About() {
 
   const milestones = [
     { year: "1997", title: "Founded", description: "Started with a small workshop and big dreams" },
-    { year: "2013", title: "Expansion", description: "Added advanced diagnostic equipment" },
+    { year: "1997", title: "Expansion", description: "Added advanced diagnostic equipment" },
     { year: "2018", title: "Team Growth", description: "Expanded to 25+ certified technicians" },
     { year: "2024", title: "Today", description: "Vapi's most trusted auto service center" }
   ];
@@ -103,7 +103,7 @@ export default function About() {
       {/* SEO Component */}
       <SEO
         title="About Us - Jinal Auto Garage | 25+ Years of Trusted Auto Service in Vapi"
-        description="Learn about Jinal Auto Garage - Vapi's most trusted auto service center since 2013. Meet our expert team of certified mechanics, discover our mission, vision, and values. 500+ satisfied customers, 4.9 rating."
+        description="Learn about Jinal Auto Garage - Vapi's most trusted auto service center since 1997. Meet our expert team of certified mechanics, discover our mission, vision, and values. 95% satisfied customers, 4.9 rating."
         keywords="about jinal auto garage, auto garage Vapi history, certified mechanics Vapi, auto service team Vapi, trusted car garage Vapi, professional auto technicians, car repair experts Vapi"
         canonical="https://jinalgarage.com/about"
         ogType="website"
@@ -145,7 +145,7 @@ export default function About() {
               >
                 <Award className="w-5 h-5" />
                 <span className="font-semibold text-sm tracking-wide">
-                  Trusted Since 2013
+                  Trusted Since 1997
                 </span>
               </motion.div>
 
@@ -153,8 +153,8 @@ export default function About() {
                 About Jinal Auto Garage
               </h1>
               <p className="text-xl md:text-2xl opacity-90 leading-relaxed">
-                Your trusted automotive service partner in Vapi. Over 10 years of excellence,
-                500+ satisfied customers, and a commitment to honest, quality service.
+                Your trusted automotive service partner in Vapi. Over 25+ years of excellence,
+                95% satisfied customers, and a commitment to honest, quality service.
               </p>
             </motion.div>
           </div>
@@ -208,7 +208,7 @@ export default function About() {
                 </h2>
                 <div className="space-y-4 text-gray-600 text-lg leading-relaxed">
                   <p>
-                    Founded in 2013, Jinal Auto Garage began with a simple mission: to
+                    Founded in 1997, Jinal Auto Garage began with a simple mission: to
                     provide honest, reliable, and affordable auto care to the people of
                     Vapi and surrounding areas.
                   </p>
@@ -510,7 +510,7 @@ export default function About() {
               </p>
             </motion.div>
 
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-6 max-w-5xl mx-auto">
               {brands.map((brand, index) => (
                 <motion.div
                   key={index}

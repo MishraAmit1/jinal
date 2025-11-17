@@ -7,7 +7,7 @@ import {
   MessageCircle,
   Clock,
   Wrench,
-  DollarSign,
+  IndianRupee,
   Shield,
   Car,
   Search
@@ -45,7 +45,7 @@ export default function FAQs() {
       category: "Warranty"
     },
     {
-      icon: DollarSign,
+      icon: IndianRupee,
       question: "What payment methods do you accept?",
       answer: "We accept all major payment methods including cash, UPI, debit cards, credit cards, and digital wallets like Google Pay and PhonePe. We also provide detailed invoices for all services.",
       category: "Payment"
@@ -75,7 +75,7 @@ export default function FAQs() {
       category: "General"
     },
     {
-      icon: DollarSign,
+      icon: IndianRupee,
       question: "Do you provide cost estimates before work?",
       answer: "Yes, we always provide a detailed cost estimate before starting any work. We believe in complete transparency and will never proceed with repairs without your approval.",
       category: "Payment"

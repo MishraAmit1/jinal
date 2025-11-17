@@ -4,13 +4,17 @@ import { useState } from 'react';
 import { SEO } from "@/components/SEO"; // Add this import
 
 // Import your images
-import garageExterior from "@assets/generated_images/Garage_exterior_building_3c1884ac.png";
-import mechanicWorking from "@assets/generated_images/Mechanic_working_on_vehicle_8e11e291.png";
-import tireService from "@assets/generated_images/Tire_service_work_4327c29b.png";
-import diagnostics from "@assets/generated_images/Engine_diagnostic_equipment_b0d2ad53.png";
-import beforeAfter from "@assets/generated_images/Before_after_repair_comparison_5bbd79fe.png";
-import happyCustomer from "@assets/generated_images/Happy_customer_with_car_0d0ccd85.png";
-import heroWorkshop from "@assets/generated_images/Hero_automotive_garage_workshop_1fe0179c.png";
+import garageExterior from "@assets/generated_images/20251022_112416.jpg";
+import mechanicWorking from "@assets/generated_images/20251022_112422.jpg";
+import tireService from "@assets/generated_images/20251022_113432.jpg";
+import diagnostics from "@assets/generated_images/IMG-20250901-WA0027.jpg";
+import beforeAfter from "@assets/generated_images/IMG-20250901-WA0029.jpg";
+import happyCustomer from "@assets/generated_images/IMG-20250901-WA0030.jpg";
+import heroWorkshop from "@assets/generated_images/IMG-20250901-WA0032.jpg";
+import heroWorksho1 from "@assets/generated_images/IMG-20251031-WA0029.jpg";
+import heroWorksho2 from "@assets/generated_images/IMG-20251031-WA0031.jpg";
+// import heroWorksho3 from "@assets/generated_images/IMG-20251031-WA0032.jpg";
+import heroWorksho4 from "@assets/generated_images/IMG-20251111-WA0016.jpg";
 import { Link } from 'wouter';
 
 export default function Gallery() {
@@ -30,10 +34,10 @@ export default function Gallery() {
     { src: diagnostics, alt: "Engine Diagnostics", category: "Equipment" },
     { src: beforeAfter, alt: "Before After Repair", category: "Repairs" },
     { src: happyCustomer, alt: "Happy Customer", category: "Customers" },
-    { src: mechanicWorking, alt: "Engine Repair", category: "Service" },
-    { src: tireService, alt: "Wheel Balancing", category: "Equipment" },
-    { src: diagnostics, alt: "Diagnostic Tools", category: "Equipment" },
-    { src: garageExterior, alt: "Service Bay", category: "Workshop" },
+    { src: heroWorksho1, alt: "Engine Repair", category: "Service" },
+    { src: heroWorksho2, alt: "Wheel Balancing", category: "Equipment" },
+    // { src: heroWorksho3, alt: "Diagnostic Tools", category: "Equipment" },
+    { src: heroWorksho4, alt: "Service Bay", category: "Workshop" },
     { src: heroWorkshop, alt: "Workshop Tools", category: "Workshop" },
   ];
 

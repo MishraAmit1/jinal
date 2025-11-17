@@ -15,7 +15,7 @@ import {
   Star,
   Clock,
   Shield,
-  DollarSign,
+  IndianRupee,
   Phone,
   Calendar
 } from "lucide-react";
@@ -138,7 +138,7 @@ const whyChooseFeatures = [
     description: "Most repairs completed on the same day"
   },
   {
-    icon: DollarSign,
+    icon: IndianRupee,
     title: "Transparent Pricing",
     description: "No hidden charges, clear estimates"
   },

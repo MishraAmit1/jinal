@@ -14,8 +14,8 @@ import {
   MapPin,
   CheckCircle2,
   Shield,
-  DollarSign,
-  AlertCircle
+  AlertCircle,
+  IndianRupee
 } from 'lucide-react';
 import { SEO } from "@/components/SEO"; // Add this import
 
@@ -162,7 +162,7 @@ _Sent from Jinal Auto Garage website_
       description: "On all services & parts"
     },
     {
-      icon: DollarSign,
+      icon: IndianRupee,
       title: "Transparent Pricing",
       description: "No hidden charges"
     }
@@ -653,7 +653,7 @@ _Sent from Jinal Auto Garage website_
                       <span className="text-sm font-semibold">Genuine Parts Only</span>
                     </div>
                     <div className="flex items-center gap-3">
-                      <DollarSign className="w-5 h-5 text-[#055b99]" />
+                      <IndianRupee className="w-5 h-5 text-[#055b99]" />
                       <span className="text-sm font-semibold">Transparent Pricing</span>
                     </div>
                   </div>

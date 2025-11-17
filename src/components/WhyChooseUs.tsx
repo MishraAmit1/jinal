@@ -5,7 +5,7 @@ import {
   ThumbsUp,
   Users,
   Shield,
-  DollarSign,
+  IndianRupee,
   CheckCircle,
   Wrench,
 } from "lucide-react";
@@ -26,7 +26,7 @@ const features = [
       "Same-day service for most repairs with time-bound delivery guarantee",
   },
   {
-    icon: DollarSign,
+    icon: IndianRupee,
     title: "Transparent Pricing",
     description:
       "No hidden charges. Get detailed estimates before we start working",

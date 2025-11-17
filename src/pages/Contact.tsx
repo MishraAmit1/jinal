@@ -526,8 +526,9 @@ _Sent from Jinal Auto Garage website_
         {/* Map Section */}
         <section className="py-0 relative">
           <div className="w-full h-[500px] relative">
+
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.8!2d72.9!3d20.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDM2JzAwLjAiTiA3MsKwNTQnMDAuMCJF!5e0!3m2!1sen!2sin!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3554.5725990215246!2d72.91023007501344!3d20.39916398109731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDIzJzU3LjAiTiA3MsKwNTQnNDYuMSJF!5e1!3m2!1sen!2sin!4v1763276154854!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}

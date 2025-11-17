@@ -2,22 +2,11 @@ import { useState, useEffect } from "react";
 import { Link } from "wouter";
 import { motion } from "framer-motion";
 import {
-  Wrench,
-  Activity,
-  Droplet,
-  Disc,
-  Wind,
-  Users,
-  Award,
-  Clock,
-  DollarSign,
-  Star,
   Calendar,
-  Phone,
   ArrowRight,
 } from "lucide-react";
 import { SEO } from "@/components/SEO"; // Add this import
-import { ServiceCard } from "@/components/ServiceCard";
+// import { ServiceCard } from "@/components/ServiceCard";
 import { TestimonialCard } from "@/components/TestimonialCard";
 import { TypewriterText } from "@/components/TypewriterText";
 import heroImage from "@assets/generated_images/homebanner.avif";
@@ -28,7 +17,7 @@ import { ServicesSection } from "@/components/ServicesSection";
 import { WhyChooseUs } from "@/components/WhyChooseUs";
 import { ProcessSection } from "@/components/ProcessSection";
 import { TestimonialsSection } from "@/components/TestimonialsSection";
-import { CTASection } from "@/components/CTASection";
+// import { CTASection } from "@/components/CTASection";
 
 const features = [
   "Expert Technicians",
